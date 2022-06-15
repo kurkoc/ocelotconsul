@@ -1,0 +1,3 @@
+Category -> http://localhost:5001
+Product -> http://localhost:5002
+Order -> http://localhost:5003
